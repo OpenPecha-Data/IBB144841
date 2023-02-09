@@ -1,0 +1,16 @@
+id: IBB144841
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:39:46.757986
+last_modified: 2023-02-10 00:39:46.758107
+source_metadata:
+  title: Udānavarga
+  language: bo
+bases:
+  7C80:
+    base_file: 7C80.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
